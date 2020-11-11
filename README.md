@@ -3,8 +3,8 @@
 
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m currently working on something cool;
-- 🌱 I’m currently learning NodeJS and Express; 
-- 💬 Ask me about anything, I am happy to help;
+- 🌱 Currently learning NodeJS and Express; 
+- 💬 Ask me about anything I made, I am happy to help;
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)

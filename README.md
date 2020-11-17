@@ -26,6 +26,7 @@
 **📙 Working on:**  
 ![](https://img.shields.io/badge/Programming-Node.js-informational?style=flat-square&logo=node-dot-js&logoColor=white&color=339933)  
 ![](https://img.shields.io/badge/Arduino-ESP--32-informational?style=flat-square&logo=node-dot-js&logoColor=white&color=8F0000)  
+![](https://img.shields.io/badge/Python-Magister--API-informational?style=flat-square&logo=node-dot-js&logoColor=white&color=8F0000)  
 
 
 **👥 Socials:**
